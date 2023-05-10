@@ -9,3 +9,5 @@ Handsoncode
 4.Page object model
 
 5. Maven project creation and handling dependecies
+6. Query pullinh=g automation testing
+7. Java concepts(OOPS,Collections)
