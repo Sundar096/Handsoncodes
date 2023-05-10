@@ -1,0 +1,11 @@
+Handsoncode
+
+1.selenium basic functinalliy
+
+2.Data driven
+
+3.Testng framework testing
+
+4.Page object model
+
+5. Maven project creation and handling dependecies
